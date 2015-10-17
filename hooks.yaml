@@ -1,0 +1,6 @@
+-   id: do-not-commit
+    name: Do Not Commit
+    description: Looks for things like DONOTCOMMIT
+    entry: do-not-commit
+    language: python
+    files: \.(js|py|tag|store)$

@@ -1,0 +1,6 @@
+-e .
+
+pre-commit
+pylint<1.4
+flake8
+nose
